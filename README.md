@@ -18,7 +18,7 @@ I'm a Irish developer based in São Paulo, that loves to solve problems with Pyt
 
 ## Where you can find me:
 
-- [Personal website](https://ryanomullan.com)
+- [Personal website and blog](https://ryanomullan.com)
 - [Twitter @ryanomullan](https://twitter.com/ryanomullan)
 - [GitHub ryanom](https://github.com/ryanom)
 - [Linkedin](https://www.linkedin.com/in/ryanomullan/)
