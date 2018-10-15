@@ -12,9 +12,14 @@
 
 ---
 
-## Biography
+## Biography:
 
 I'm a Irish developer based in São Paulo, that loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
+
+## What I'm working on:
+
+- [SudoJobs](http://sudojobs.io/) - A job platform focused on IT jobs that favors transparency in the offers.
+- [Golingo](http://golingo.com.br/) - A platform to help people find their next native language teacher.
 
 ## Where you can find me:
 
