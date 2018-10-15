@@ -2,8 +2,8 @@
   <p align="center" class="header-image"><img src="images/circle_head.png" width="200"></p>
   <h1 class="name" align="center"><span>Ryan O'Mullan</span></h1>
   <p class="meta-data" align="center">
-  Software Engineer at <a target="_blank" rel="noopener noreferrer" href="https://paguemob.com/">Paguemob</a><br/>
-    Python Developer<br/>
+  Software Engineer and PM<br/>
+    Python Developer at <a target="_blank" rel="noopener noreferrer" href="https://scrapinghub.com/">Scrapinghub</a><br/>
   </p>
   <p class="info-footer" align="center">
 
