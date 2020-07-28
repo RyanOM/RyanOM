@@ -19,3 +19,9 @@ I'm a Irish developer based in Brazil, who loves to solve problems with Python a
 - [Twitter @ryanomullan](https://twitter.com/ryanomullan)
 - [Linkedin](https://www.linkedin.com/in/ryanomullan/)
 - [StackOverflow](https://stackoverflow.com/users/4876493/ryan)
+
+
+## Bored and looking for something to do?
+
+Tryout the Asteroid game I wrote in Python: http://ryanom.github.io/python_asteroids </br>
+Try to beat my highscore of **410**
