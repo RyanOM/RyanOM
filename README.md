@@ -2,10 +2,7 @@
   <h1 class="name"><span>Hi I'm Ryan O'Mullan</span></h1>
   <p class="meta-data">
   Software Engineer and PM<br/>
-    Python Developer at <a target="_blank" rel="noopener noreferrer" href="https://scrapinghub.com/">Scrapinghub</a><br/>
-  </p>
-  <p class="info-footer" align="center">
-
+    Currently working as an Internal Systems Developer at <a target="_blank" rel="noopener noreferrer" href="https://scrapinghub.com/">Scrapinghub</a><br/>
   </p>
 </div>
 
@@ -13,7 +10,7 @@
 
 ## Biography:
 
-I'm a Irish developer based in São Paulo, that loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
+I'm a Irish developer based in Brazil, who loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
 
 ## What I'm working on:
 
