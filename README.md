@@ -1,7 +1,7 @@
 <div class="info">
-  <h1 class="name"><span>Hi I'm Ryan O'Mullan</span></h1>
+  <h1 class="name"><span>Hi, I'm Ryan O'Mullan</span></h1>
   <p class="meta-data">
-  Software Engineer and PM<br/>
+    Software Engineer and PM<br/>
     Currently working as an Internal Systems Developer at <a target="_blank" rel="noopener noreferrer" href="https://scrapinghub.com/">Scrapinghub</a><br/>
   </p>
 </div>
