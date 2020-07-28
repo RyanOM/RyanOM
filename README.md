@@ -24,4 +24,4 @@ I'm a Irish developer based in Brazil, who loves to solve problems with Python a
 ## Bored and looking for something to do?
 
 Tryout the Asteroid game I wrote in Python: http://ryanom.github.io/python_asteroids </br>
-Try to beat my highscore of **410**
+Try to beat my highscore of **410** :video_game:
