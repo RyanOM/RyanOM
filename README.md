@@ -11,7 +11,7 @@ I'm a Irish developer based in Brazil, who loves to solve problems with Python a
 ## What I'm working on:
 
 - [SudoJobs](http://sudojobs.io/) - A job platform focused on IT jobs that favors transparency in the offers.
-- [Golingo](http://golingo.com.br/) - A platform to help people find their next native language teacher.
+- [IBN Brazil](ibnbrazil.com/) - Building relations between Brazil and Ireland :brazil::ireland: 
 
 ## Where else you can find me:
 
