@@ -20,9 +20,9 @@ I'm a Irish developer based in São Paulo, that loves to solve problems with Pyt
 - [SudoJobs](http://sudojobs.io/) - A job platform focused on IT jobs that favors transparency in the offers.
 - [Golingo](http://golingo.com.br/) - A platform to help people find their next native language teacher.
 
-## Where you can find me:
+## Where else you can find me:
 
 - [Personal website and blog](https://ryanomullan.com)
 - [Twitter @ryanomullan](https://twitter.com/ryanomullan)
-- [GitHub ryanom](https://github.com/ryanom)
 - [Linkedin](https://www.linkedin.com/in/ryanomullan/)
+- [StackOverflow](https://stackoverflow.com/users/4876493/ryan)
