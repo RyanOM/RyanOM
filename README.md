@@ -6,7 +6,7 @@
   </p>
 </div>
 
-I'm a Irish developer based in Brazil, who loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
+I'm an Irish developer based in Brazil, who loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
 
 ## What I'm working on:
 
