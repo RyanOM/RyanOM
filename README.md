@@ -1,12 +1,12 @@
 <div class="info">
   <h1 class="name"><span>Hi, I'm Ryan O'Mullan</span></h1>
   <p class="meta-data">
-    Software Engineer and PM<br/>
-    Currently working as an Internal Systems Developer at <a target="_blank" rel="noopener noreferrer" href="https://scrapinghub.com/">Scrapinghub</a><br/>
+    I’m a software engineer with over 5 years of experience in building applications, everything from internal tooling to consumer banking apps. I’ve also led small teams as a PM and enjoy working closely with customers.<br/>
+    I’ve been full-remote for over 2 years and prior to that I’ve worked internationally in France, Germany & Brazil, allowing me to become trilingual and well equipped to work with teams & customers worldwide.
   </p>
 </div>
 
-I'm an Irish developer based in Brazil, who loves to solve problems with Python and other tech. I enjoy learning things and meeting new people.
+Tech Stack: Python, Django, Postgres, SQL, MongoDB, Git, Linux, HTML, CSS
 
 ## What I'm working on:
 
