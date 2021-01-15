@@ -6,7 +6,10 @@
   </p>
 </div>
 
-Tech Stack: Python, Django, Postgres, SQL, MongoDB, Git, Linux, HTML, CSS
+## Tech Stack skills: 
+
+Strong: Python, Django, Scrapy, Postgres, SQL, MongoDB, Git, Linux, HTML, CSS </br>
+Moderate: Javascript, Java, Spring, AWS, GCP, Docker
 
 ## What I'm working on:
 
