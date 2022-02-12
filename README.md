@@ -14,7 +14,6 @@ Moderate: Javascript, Java, Spring, AWS, GCP, Docker
 ## What I'm working on:
 
 - [SudoJobs](http://sudojobs.io/) - A job platform focused on IT jobs that favors transparency in the offers.
-- [IBN Brazil](https://ibnbrazil.com/) - Building relations between Brazil and Ireland :brazil::ireland: 
 
 ## Where else you can find me:
 
